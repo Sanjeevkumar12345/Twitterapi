@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="25198" started-at="2019-10-11T11:28:46Z" finished-at="2019-10-11T11:29:11Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="25198" started-at="2019-10-11T11:28:46Z" finished-at="2019-10-11T11:29:11Z">
+      <class name="all_tweets">
+        <test-method status="PASS" signature="gettweet()[pri:0, instance:all_tweets@7d907bac]" name="gettweet" duration-ms="25156" started-at="2019-10-11T11:28:46Z" finished-at="2019-10-11T11:29:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- gettweet -->
+      </class> <!-- all_tweets -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
